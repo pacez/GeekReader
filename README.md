@@ -2,8 +2,7 @@
 
 > 专为 macOS 打造的电子书阅读器
 
-[下载 App Store 版本](https://apps.apple.com/app/geekreader) · [问题反馈](https://github.com/pacez/GeekReader/issues) · [GitHub 仓库](https://github.com/pacez/GeekReader)
-
+[下载 App Store 版本](https://apps.apple.com/app/geekreader) · [问题反馈](https://github.com/pacez/GeekReader/issues)
 ---
 
 ## 简介
