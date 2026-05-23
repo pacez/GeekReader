@@ -1,62 +1,48 @@
 # GeekReader
 
-> An e-book reader crafted for macOS
+> An Pure e-book reader。
 
 [Download on the App Store](https://apps.apple.com/app/geekreader) · [Issue Feedback](https://github.com/pacez/GeekReader/issues)
----
+-------------------------------------------
 
 ## Introduction
 
-**GeekReader** is an e-book reading and management tool designed specifically for macOS, dedicated to providing you with a clean, immersive, and efficient reading experience. It supports multiple formats including EPUB, PDF, and TXT, and features the ability to connect to remote GitHub book sources, allowing you to easily build your personal library.
+**GeekReader** is an e-book reading and management tool designed specifically for Mac, dedicated to providing you with a clean, immersive, and efficient reading experience. It supports multiple formats including EPUB, PDF, and TXT, and features the ability to connect to remote GitHub book sources, allowing you to easily build your personal library.
 
 ---
 
 ## Key Features
 
 ### 📚 Multi-format Local Reading
+
 Supports mainstream e-book formats such as EPUB, PDF, and TXT. Whether it's novels, technical documents, or academic papers, you can open and read them with ease.
 
 ### 📥 Easy Import
+
 - Drag and Drop: Simply drag book files into the app window
 - File Picker: Batch select local books for one-click import
 
 ### 🌐 Online Book Sources
+
 Supports adding public GitHub repositories as remote book sources, automatically parsing the directory structure for online browsing and downloading.
 
 ### 🔍 Smart Library Management
+
 - Toggle freely between Grid / List dual views
 - Quick filtering by All, Recently Read, Favorites, Reading, Finished, and Unread
 - Real-time search by title and author
 - Batch book management
 
-### ✍️ Immersive Reading Experience
-- Quick table of contents navigation (⌘L)
-- Annotation and note-taking features
-- Focus mode to hide all distractions (⌘⌃F)
-- Automatic reading progress saving
-
 ### 🎨 Personalized Typography
+
 - **Fonts**: New York, SF Pro, Source Han Serif
 - **Font Size**: Stepless adjustment from 12pt to 32pt
 - **Line Height**: Freely adjustable from 1.0 to 3.0
 - **Themes**: Day, Night, Parchment, Follow System
 
 ### 🌍 Multi-language Support
+
 Simplified Chinese, Traditional Chinese, and English, switch with one click.
-
-### ⌨️ Keyboard Shortcuts
-Full keyboard operation support, from importing to reading, you can efficiently complete all operations without leaving the keyboard.
-
-| Shortcut | Function |
-|----------|----------|
-| ⌘N | Import Books |
-| ⌘O | Open Book |
-| ⌘F | Search |
-| ⌘D | Add Bookmark |
-| ⌘L | Table of Contents |
-| ⌘⌃F | Immersive Mode |
-| ⌘⇧O | Add Book Source |
-| ⌘, | Preferences |
 
 ---
 
@@ -71,18 +57,23 @@ Full keyboard operation support, from importing to reading, you can efficiently 
 ## FAQ
 
 ### How to import books?
+
 Click the import button in the toolbar (or press ⌘N), select local EPUB / PDF / TXT files. You can also drag files directly from Finder into the app window.
 
 ### How to add remote book sources?
+
 In Settings, select the "Online Book Sources" tab, enter the public GitHub repository address and source name. The app will automatically parse the book files in the repository.
 
 ### Will reading progress sync?
+
 Reading progress is automatically saved locally; cross-device sync is not currently supported. You can manually migrate data by exporting/importing configuration files.
 
 ### Which e-book formats are supported?
+
 Currently supports EPUB, PDF, and TXT. More formats are planned for future versions.
 
 ### How to switch languages?
+
 In Preferences → General, you can choose Follow System, Simplified Chinese, Traditional Chinese, or English.
 
 ---
